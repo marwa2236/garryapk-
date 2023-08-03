@@ -86,11 +86,11 @@
    ],
   
   "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"Skibidi Toilet Boss For Gmod","package_name":"com.skibiditoiletboss.skibidigmod","icon":"https://play-lh.googleusercontent.com/qjJ5FL-jom_k1GCo9b8mflIyWkYxM-aBegafqaaPZCjqLrDXlph3l2BVqHoTCsiXVII=w240-h480-rw"},
+  {"name":"Baldi and Banana Nextbot Gmod","package_name":"com.baldibanana.basicmod","icon":"https://play-lh.googleusercontent.com/1EJ2IsTn21gXVoNnbLt9br7ulz0k8XG-3qnKX6jiaApcoHzoDS5nYRbO03pztDgEkQ=w240-h480-rw"},
+  {"name":"Amanda The Adventurer gmod","package_name":"com.amandatheadventurer.amandamod","icon":"https://play-lh.googleusercontent.com/zkUffajJr8QNeCl7WEbyw-BPYBIhQ80x3_11XUkM8SWuq2J071QLOnZGkygT3q40OW0=w240-h480-rw"},
+  {"name":"Skibidi Toilet Boss For Gmod","package_name":"com.skibiditoiletboss.skibidigmod","icon":"https://play-lh.googleusercontent.com/qjJ5FL-jom_k1GCo9b8mflIyWkYxM-aBegafqaaPZCjqLrDXlph3l2BVqHoTCsiXVII=w240-h480-rw"},
+  {"name":"Titan Cameraman For Gmod","package_name":"com.titangmod.cameramanbossmod","icon":"https://play-lh.googleusercontent.com/CglRNeQwoaOwBaCbAKoOSekK9SxXOHdHnAiXaWcRFbN4pQ5txMOZdxBEsH5wl6Rlig=w240-h480-rw"}
    ]
  
 }
